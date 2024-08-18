@@ -1,0 +1,24 @@
+th{
+    background-color: #166AA0;
+    font-family: serif;
+    font-size: 30px;
+    font-style:italic;
+    
+    
+}
+
+table{
+    border-color:#166AA0;
+    border-style: hidden;
+    background-color: #4898CC;
+    
+  
+}
+.center{
+    margin-left: auto;
+    margin-right: auto
+}
+body{
+    background-image: url(movie-background.jpg);
+    background-size: 100% 100%;
+}
